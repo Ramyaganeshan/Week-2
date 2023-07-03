@@ -1,0 +1,30 @@
+React is a JavaScript library for building user interfaces.
+React is used to build single-page applications.
+React allows us to create reusable UI components.
+
+What is React?
+React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
+React is a tool for building UI components.
+
+
+How does React Work?
+React creates a VIRTUAL DOM in memory.
+Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory,
+where it does all the necessary manipulating, before making the changes in the browser DOM.
+React only changes what needs to be changed!
+React finds out what changes have been made, and changes only what needs to be changed.
+
+
+To get an overview of what React is, you can write React code directly in HTML.
+But in order to use React in production, you need npm and Node.js installed.
+
+*** Writing react in the HTML can be OK for testing purposes, but for production you will need to set up a React   
+    If you have npx and Node.js installed, you can create a React application by using create-react-app ***
+
+
+
+
+
+
+
+
