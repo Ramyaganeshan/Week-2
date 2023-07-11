@@ -1,0 +1,40 @@
+Ternary Operator:
+
+The ternary operator is a simplified conditional operator like if / else.
+Syntax: condition ? <expression if true> : <expression if false>
+Here is an example using if / else:
+
+if (authenticated) {
+  renderApp();
+} else {
+  renderLogin();
+}
+
+Here is the same example using a ternary operator:
+With Ternary-
+authenticated ? renderApp() : renderLogin();
+
+
+
+EXAMPLES:
+
+Input: let result = (10 > 0) ? true : false;
+Output: true
+
+Input: let message = (20 > 15) ? "Yes" : "No";
+Output: Yes
+
+
+let PMarks = 40
+    let result = (PMarks > 39) ?
+        "Pass" : "Fail";
+
+
+
+
+
+
+
+
+
+
